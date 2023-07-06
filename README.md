@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak Duhan.
-- 👀 I’m interested in Backend Development, Data Science & ML.
+- 👀 I’m interested in AI/ Machine Learning Projects.
 - 🌱 I’m currently learning ML mathematical modeling approach and system design (HLD/LLD). 
-- 💞️ I’m looking to collaborate on AI/ML modeling|| Backend Architecture. 
+- 💞️ I’m looking to collaborate on AI/ML modeling, backend architecture. 
 - 📫 How to reach me - dkdoon.net@gmail.com
 
 <!---
